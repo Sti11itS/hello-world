@@ -1,9 +1,13 @@
 # hello-world
+
 My First Repository
 
-<h1>Read Me</h1>
+## Read Me
 
-<p style="color:blue">Hello World! This is my first repository. Pleased to meet you.</p>
+Hello World! This is my first repository. Pleased to meet you.  
 
-<p>An update to the README.md file from local computer using Git BASH</p>
-
+Edit 2025-08-11:  
+- [Markdown Documentation](https://www.markdownguide.org/basic-syntax/ "Link to Markdown")
+- Removed HTML tags, just use pure Markdown for now  
+- Following the GitHub documentation introduction. Again
+- Using the CreateBranch-PullRequest method to update the main branch.  
